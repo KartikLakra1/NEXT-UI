@@ -45,9 +45,7 @@ const Footer = () => {
       </div>
 
       <div>
-        <p className="font-light p-3">
-          ™ © 2024 Music School, All rights reserved.
-        </p>
+        <p className="font-light p-3">™ © made with love by KARTIK LAKRA.</p>
       </div>
     </div>
   );
